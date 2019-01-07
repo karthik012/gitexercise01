@@ -12,3 +12,8 @@ practice piano
 -----------------------
 New addition
 -version tagging
+-----------------------
+Next addition
+-version tagging in detail
+-----------------------
+
