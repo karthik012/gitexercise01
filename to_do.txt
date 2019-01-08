@@ -16,4 +16,4 @@ New addition
 Next addition
 -version tagging in detail
 -----------------------
-
+PartyInvite
