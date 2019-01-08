@@ -16,4 +16,10 @@ New addition
 Next addition
 -version tagging in detail
 -----------------------
-
+PartyInvite
+-------------------
+prepare for interview
+-git
+-maven
+-jenkins
+--------------
