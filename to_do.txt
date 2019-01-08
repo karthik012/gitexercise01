@@ -18,8 +18,5 @@ Next addition
 -----------------------
 PartyInvite
 -------------------
-prepare for interview
--git
--maven
--jenkins
---------------
+call everyone
+----------------
